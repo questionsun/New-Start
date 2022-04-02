@@ -125,10 +125,3 @@ for i in range(10):
                 print(num1[0],num2[0],num3[0],num4[0])
                 success = all_24(num1,num2,num3,num4,sign,success)
 print(success)
-
-
-# In[ ]:
-
-
-
-
